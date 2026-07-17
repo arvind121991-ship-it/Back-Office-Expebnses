@@ -1,0 +1,16 @@
+IT Company Policy Document
+-------------------------
+1. Purpose:
+   This document establishes security protocols for handling sensitive client data.
+
+2. Key Policies:
+   - Ensure compliance with company guidelines.
+   - Adhere to data protection policies.
+   - Maintain confidentiality of sensitive information.
+
+3. Submission Guidelines:
+   - Submit all reports within 30 days from the date of the event.
+   - Expenses above $500 require manager approval.
+
+4. Anonymization Policy:
+   - Personal details such as name, ID, and payment information will be anonymized.
